@@ -4772,3 +4772,17 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.08.23-02.36.33:545][224]LogFileHelpers: InternalPromptForCheckoutAndSave took 125 ms (total: 327 ms)
 [2023.08.23-02.36.33:558][224]AssetCheck: New page: Asset Save: UI
 [2023.08.23-02.36.33:558][224]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/AR_Project/UI/UI.UI
+[2023.08.23-02.37.13:908][605]LogSlate: Took 0.000203 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.08.23-02.37.26:058][320]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.08.23-02.38.14:821][ 10]LogEditorTransaction: Undo Drag and Drop Widget
+[2023.08.23-02.38.41:991][540]BlueprintLog: New page: Compile UI
+[2023.08.23-02.38.42:114][540]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2023.08.23-02.38.45:725][729]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2023.08.23-02.38.46:896][729]LogSlate: Window 'Save Content' being destroyed
+[2023.08.23-02.38.46:911][729]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.23-02.38.46:974][729]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AR_Project/UI/UI" FILE="F:/course/subjects/Agumented Reality/ARProject/Content/AR_Project/UI/UI.uasset" SILENT=true
+[2023.08.23-02.38.47:027][729]LogSavePackage: Moving output files for package: /Game/AR_Project/UI/UI
+[2023.08.23-02.38.47:027][729]LogSavePackage: Moving 'F:/course/subjects/Agumented Reality/ARProject/Saved/UI710F0F7F4B097FCC9DCAF7BD53C1CF78.tmp' to 'F:/course/subjects/Agumented Reality/ARProject/Content/AR_Project/UI/UI.uasset'
+[2023.08.23-02.38.47:038][729]LogFileHelpers: InternalPromptForCheckoutAndSave took 127 ms (total: 454 ms)
+[2023.08.23-02.38.47:060][729]AssetCheck: New page: Asset Save: UI
+[2023.08.23-02.38.47:060][729]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/AR_Project/UI/UI.UI
