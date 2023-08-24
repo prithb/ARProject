@@ -2094,3 +2094,79 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.08.24-02.45.33:875][953]LogFileHelpers: InternalPromptForCheckoutAndSave took 244 ms
 [2023.08.24-02.45.33:903][953]AssetCheck: New page: Asset Save: UI
 [2023.08.24-02.45.33:904][953]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/AR_Project/UI/UI.UI
+[2023.08.24-02.50.01:286][432]LogShaderCompilers: Display: ================================================
+[2023.08.24-02.50.01:286][432]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.08.24-02.50.01:286][432]LogShaderCompilers: Display: Total job queries 59, among them cache hits 6 (10.17%)
+[2023.08.24-02.50.01:287][432]LogShaderCompilers: Display: Tracking 53 distinct input hashes that result in 33 distinct outputs (62.26%)
+[2023.08.24-02.50.01:287][432]LogShaderCompilers: Display: RAM used: 0.10 MB (0.00 GB) of 1024.00 MB (1.00 GB) budget. Usage: 0.01%
+[2023.08.24-02.50.01:287][432]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.08.24-02.50.01:287][432]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.08.24-02.50.01:287][432]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.08.24-02.50.01:287][432]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.08.24-02.50.01:287][432]LogShaderCompilers: Display: ================================================
+[2023.08.24-02.50.21:324][553]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.08.24-02.50.21:324][553]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.08.24-02.50.29:951][ 24]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/AR_Project/Material/Gradient.Gradient
+[2023.08.24-02.50.29:987][ 24]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.24-02.50.30:070][ 24]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Sphere_inversenormals) ...
+[2023.08.24-02.50.30:141][ 24]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Floor_Mesh) ...
+[2023.08.24-02.50.30:534][ 24]MaterialEditorStats: Default UI Pixel Shader: 0 instructions
+[2023.08.24-02.50.30:535][ 24]MaterialEditorStats: Default UI Vertex Shader: 0 instructions
+[2023.08.24-02.50.30:535][ 24]MaterialEditorStats: Instanced UI Vertex Shader: 0 instructions
+[2023.08.24-02.50.30:535][ 24]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.24-02.50.30:535][ 24]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2023.08.24-02.50.30:535][ 24]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.24-02.50.30:535][ 24]MaterialEditorStats: Shader Count: 0
+[2023.08.24-02.50.30:763][ 27]MaterialEditorStats: Default UI Pixel Shader: 25 instructions
+[2023.08.24-02.50.30:763][ 27]MaterialEditorStats: Default UI Vertex Shader: 26 instructions
+[2023.08.24-02.50.30:763][ 27]MaterialEditorStats: Instanced UI Vertex Shader: 0 instructions
+[2023.08.24-02.50.30:763][ 27]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.24-02.50.30:763][ 27]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2023.08.24-02.50.30:764][ 27]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.24-02.50.30:764][ 27]MaterialEditorStats: Shader Count: 2
+[2023.08.24-02.50.48:170][776]LogSlate: Window 'Color Picker' being destroyed
+[2023.08.24-02.50.48:182][776]MaterialEditorStats: Default UI Pixel Shader: 0 instructions
+[2023.08.24-02.50.48:182][776]MaterialEditorStats: Default UI Vertex Shader: 0 instructions
+[2023.08.24-02.50.48:182][776]MaterialEditorStats: Instanced UI Vertex Shader: 0 instructions
+[2023.08.24-02.50.48:182][776]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.24-02.50.48:182][776]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2023.08.24-02.50.48:182][776]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.24-02.50.48:182][776]MaterialEditorStats: Shader Count: 0
+[2023.08.24-02.50.49:788][835]MaterialEditorStats: Default UI Pixel Shader: 0 instructions
+[2023.08.24-02.50.49:788][835]MaterialEditorStats: Default UI Vertex Shader: 26 instructions
+[2023.08.24-02.50.49:788][835]MaterialEditorStats: Instanced UI Vertex Shader: 0 instructions
+[2023.08.24-02.50.49:788][835]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.24-02.50.49:788][835]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2023.08.24-02.50.49:788][835]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.24-02.50.49:788][835]MaterialEditorStats: Shader Count: 1
+[2023.08.24-02.50.50:194][851]MaterialEditorStats: Default UI Pixel Shader: 25 instructions
+[2023.08.24-02.50.50:194][851]MaterialEditorStats: Default UI Vertex Shader: 26 instructions
+[2023.08.24-02.50.50:194][851]MaterialEditorStats: Instanced UI Vertex Shader: 0 instructions
+[2023.08.24-02.50.50:194][851]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.24-02.50.50:194][851]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2023.08.24-02.50.50:194][851]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.24-02.50.50:194][851]MaterialEditorStats: Shader Count: 2
+[2023.08.24-02.50.54:525][ 47]LogSlate: Window 'Color Picker' being destroyed
+[2023.08.24-02.50.54:538][ 47]MaterialEditorStats: Default UI Pixel Shader: 0 instructions
+[2023.08.24-02.50.54:538][ 47]MaterialEditorStats: Default UI Vertex Shader: 0 instructions
+[2023.08.24-02.50.54:538][ 47]MaterialEditorStats: Instanced UI Vertex Shader: 0 instructions
+[2023.08.24-02.50.54:538][ 47]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.24-02.50.54:538][ 47]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2023.08.24-02.50.54:538][ 47]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.24-02.50.54:538][ 47]MaterialEditorStats: Shader Count: 0
+[2023.08.24-02.50.55:582][ 89]MaterialEditorStats: Default UI Pixel Shader: 0 instructions
+[2023.08.24-02.50.55:582][ 89]MaterialEditorStats: Default UI Vertex Shader: 26 instructions
+[2023.08.24-02.50.55:582][ 89]MaterialEditorStats: Instanced UI Vertex Shader: 0 instructions
+[2023.08.24-02.50.55:582][ 89]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.24-02.50.55:582][ 89]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2023.08.24-02.50.55:582][ 89]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.24-02.50.55:582][ 89]MaterialEditorStats: Shader Count: 1
+[2023.08.24-02.50.55:800][ 98]MaterialEditorStats: Default UI Pixel Shader: 25 instructions
+[2023.08.24-02.50.55:800][ 98]MaterialEditorStats: Default UI Vertex Shader: 26 instructions
+[2023.08.24-02.50.55:800][ 98]MaterialEditorStats: Instanced UI Vertex Shader: 0 instructions
+[2023.08.24-02.50.55:800][ 98]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.24-02.50.55:800][ 98]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2023.08.24-02.50.55:800][ 98]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.24-02.50.55:800][ 98]MaterialEditorStats: Shader Count: 2
+[2023.08.24-02.51.01:660][371]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2023.08.24-02.51.03:050][430]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
