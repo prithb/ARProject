@@ -2170,3 +2170,41 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.08.24-02.50.55:800][ 98]MaterialEditorStats: Shader Count: 2
 [2023.08.24-02.51.01:660][371]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
 [2023.08.24-02.51.03:050][430]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.08.24-02.51.46:210][389]LogSlate: Window 'Gradient' being destroyed
+[2023.08.24-02.51.51:696][708]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.08.24-02.52.06:682][592]BlueprintLog: New page: Compile UI
+[2023.08.24-02.52.06:822][592]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2023.08.24-02.52.37:720][347]LogEditorTransaction: Undo Break Pin Links
+[2023.08.24-02.52.37:776][347]MaterialEditorStats: Default UI Pixel Shader: 0 instructions
+[2023.08.24-02.52.37:776][347]MaterialEditorStats: Default UI Vertex Shader: 0 instructions
+[2023.08.24-02.52.37:776][347]MaterialEditorStats: Instanced UI Vertex Shader: 0 instructions
+[2023.08.24-02.52.37:776][347]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.24-02.52.37:776][347]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2023.08.24-02.52.37:777][347]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.24-02.52.37:777][347]MaterialEditorStats: Shader Count: 0
+[2023.08.24-02.52.37:925][350]MaterialEditorStats: Default UI Pixel Shader: 25 instructions
+[2023.08.24-02.52.37:925][350]MaterialEditorStats: Default UI Vertex Shader: 26 instructions
+[2023.08.24-02.52.37:925][350]MaterialEditorStats: Instanced UI Vertex Shader: 0 instructions
+[2023.08.24-02.52.37:925][350]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.24-02.52.37:925][350]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2023.08.24-02.52.37:925][350]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.24-02.52.37:926][350]MaterialEditorStats: Shader Count: 2
+[2023.08.24-02.52.45:796][787]LogMaterialEditor: Applying material Gradient
+[2023.08.24-02.52.47:042][787]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2023.08.24-02.52.47:187][787]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.08.24-02.52.47:202][787]MaterialEditorStats: Default UI Pixel Shader: 0 instructions
+[2023.08.24-02.52.47:202][787]MaterialEditorStats: Default UI Vertex Shader: 0 instructions
+[2023.08.24-02.52.47:203][787]MaterialEditorStats: Instanced UI Vertex Shader: 0 instructions
+[2023.08.24-02.52.47:203][787]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.24-02.52.47:203][787]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2023.08.24-02.52.47:203][787]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.24-02.52.47:203][787]MaterialEditorStats: Shader Count: 0
+[2023.08.24-02.52.47:338][790]MaterialEditorStats: Default UI Pixel Shader: 25 instructions
+[2023.08.24-02.52.47:338][790]MaterialEditorStats: Default UI Vertex Shader: 26 instructions
+[2023.08.24-02.52.47:338][790]MaterialEditorStats: Instanced UI Vertex Shader: 0 instructions
+[2023.08.24-02.52.47:338][790]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.24-02.52.47:338][790]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2023.08.24-02.52.47:338][790]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.24-02.52.47:338][790]MaterialEditorStats: Shader Count: 2
+[2023.08.24-02.52.50:970][998]BlueprintLog: New page: Compile UI
+[2023.08.24-02.52.51:079][998]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
